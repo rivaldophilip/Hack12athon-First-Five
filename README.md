@@ -1,5 +1,5 @@
 # Hack12athon-First-Five
-Platform to generate virtual engagement ideas to create a classroom culture. It helps teachers and students empathize using the first five minutes of class. We will provide a simple site for teachers and students to add and pick random activities! 
+Platform to create a classroom culture with virtual engagement ideas. We provide a simple site for teachers and students to add and pick random activities! It helps teachers and students empathize using the first five minutes of class. 
 
 Here is how it works:
 
