@@ -7,4 +7,4 @@ Here is how it works:
 
 Feel free to reach out if you are interested in making this idea real with some web-based prototypes!
 
-Made during Stanford d.school Hack12athon 2020.
+Made during Stanford d.school Hack12athon in 2020.
